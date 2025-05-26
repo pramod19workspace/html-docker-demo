@@ -63,7 +63,10 @@ This project includes a `Jenkinsfile` to automate:
 The static website will display:
 
 ```
-Welcome to DevOps Project
+Hello from Docker!
+
+This is a basic HTML-only project deployed using Docker.
+
 ```
 
 ## 🧹 Cleanup
