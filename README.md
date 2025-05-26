@@ -83,7 +83,7 @@ docker rm <container_id>
 
 ## 👤 Author
 
-**Pramod**  
+**Pramod R**  
 Software Development Engineer | DevOps Enthusiast  
 
 [LinkedIn](https://www.linkedin.com/in/pramod19workspace) | [GitHub](https://github.com/pramod19workspace)
