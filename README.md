@@ -81,7 +81,8 @@ docker stop <container_id>
 docker rm <container_id>
 ```
 
-## 📌 Author
+## Author
 
-**Pramod**  
-DevOps Enthusiast
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pramod-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pramod19workspace)  
+[![GitHub](https://img.shields.io/badge/GitHub-pramod19workspace-black?style=flat&logo=github)](https://github.com/pramod19workspace)
+
