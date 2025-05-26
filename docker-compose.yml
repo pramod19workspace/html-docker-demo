@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   web:
-    image: pramod19workspace/html-docker-demo:tagname
+    image: pramod19workspace/html-docker-demo:latest
     ports:
       - "8000:80"
     container_name: html_web
